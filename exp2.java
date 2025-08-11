@@ -30,5 +30,10 @@ public class exp2 {
     }
 }
 
+//outputEnter a number:
+//4
+//4 is not a prime number.
+
+
 
 
